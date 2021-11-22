@@ -1,4 +1,4 @@
-const HomeController = require('../controllers/homeController');
+const DashboardController = require('../controllers/dashboardController');
 const { Users } = require('../models')
 
 const router = require('express').Router()
